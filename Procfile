@@ -1,1 +1,1 @@
-web: bit start
+web: node index
