@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.js": "/public/ssr/index.js",
+    "main.css": "/public/ssr/static/css/main.9fe7b293.css",
+    "workbox-13d6e046.js.map": "/public/ssr/workbox-13d6e046.js.map",
+    "workbox-13d6e046.js": "/public/ssr/workbox-13d6e046.js",
+    "service-worker.js.map": "/public/ssr/service-worker.js.map",
+    "service-worker.js": "/public/ssr/service-worker.js"
+  },
+  "entrypoints": [
+    "index.js",
+    "static/css/main.9fe7b293.css"
+  ]
+}

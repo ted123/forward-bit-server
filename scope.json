@@ -1,0 +1,9 @@
+{
+    "name": "forward-bit-server",
+    "remotes": {},
+    "version": "1.0.219",
+    "lanes": {
+        "current": "main",
+        "tracking": []
+    }
+}
